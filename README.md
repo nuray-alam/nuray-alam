@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, this is Md. Nuray Alam Siddik
+#### I am a web developer
+![I am a web developer](https://i.ibb.co/YX70Sfp/banner-web-development.jpg)
 
-<!--
-**nuray-alam/nuray-alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming.
 
-Here are some ideas to get you started:
+Skills: Node.js / Express.js / REACT / JS / Bootstrap / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MERN stack based project. 
+- 🌱 I’m currently learning web developement 
+- 💬 Ask me about web developing 
+- 📫 How to reach me: telegram: @nurayalam 
+- ⚡ Fun fact: You can ask me about bikes 😉🏍 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nuray-alam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-nuray-alam-siddik-647373203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nuray__alam98/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nuray-alam)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuray-alam)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuray-alam&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nuray-alam)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nuray-alam)  
+
+![Profile views](https://gpvc.arturio.dev/nuray-alam)  
