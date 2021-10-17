@@ -15,7 +15,7 @@ Skills: Node.js / Express.js / REACT / JS / Bootstrap / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nuray-alam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-nuray-alam-siddik-647373203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nuray__alam98/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nuray-alam)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nuray-alam)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuray-alam)](https://github.com/anuraghazra/github-readme-stats)
 
