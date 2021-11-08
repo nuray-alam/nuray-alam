@@ -4,7 +4,7 @@
 
 I'm passionate about programming.
 
-Skills: Node.js / Express.js / REACT / JS / Bootstrap / HTML / CSS
+Skills: Node.js / Express.js / REACT / JS / Bootstrap / Material UI / MongoDb
 
 - 🔭 I’m currently working on MERN stack based project. 
 - 🌱 I’m currently learning web developement 
