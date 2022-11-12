@@ -5,6 +5,7 @@
 I'm passionate about programming.
 
 Skills: Node.js / Express.js / REACT / JS / Bootstrap / Material UI / MongoDb
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 - 🔭 I’m currently working on MERN stack based project. 
 - 🌱 I’m currently learning web developement 
