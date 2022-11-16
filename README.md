@@ -2,7 +2,7 @@
 #### I am a web developer
 
 <!-- ![I am a web developer](https://i.ibb.co/YX70Sfp/banner-web-development.jpg) -->
-<-- I'm passionate about programming. -->
+<!-- I'm passionate about programming. -->
 
 Skills: Node.js / Express.js / REACT / JS / Bootstrap / Material UI / MongoDb
 
