@@ -17,12 +17,12 @@ Skills: Node.js / Express.js / REACT / JS / Bootstrap / Material UI / MongoDb
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nuray-alam)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akib001)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuray-alam)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuray-alam&show_icons=true)  
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nuray-alam)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nuray-alam)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akib001)  
 
 ![Profile views](https://gpvc.arturio.dev/nuray-alam)  
