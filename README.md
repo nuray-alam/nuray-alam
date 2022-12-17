@@ -21,7 +21,8 @@ Skills: Node.js / Express.js / REACT / JS / Bootstrap / Material UI / MongoDb
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuray-alam&show_icons=true)   -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nuray-alam)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nuray-alam) -->
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nuray-alam)
 
