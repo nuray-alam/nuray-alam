@@ -4,7 +4,7 @@
 <!-- ![I am a web developer](https://i.ibb.co/YX70Sfp/banner-web-development.jpg) -->
 <!-- I'm passionate about programming. -->
 
-Skills: Node.js / Express.js / REACT / JS / Bootstrap / Material UI / Tailwind / MongoDb
+Skills: Node.js / Express.js / REACT / NEXT / JS / Bootstrap / Material UI / Tailwind / MongoDb
 
 - 🔭 I’m currently working on MERN stack based project. 
 - 🌱 I’m currently learning web developement 
