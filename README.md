@@ -20,7 +20,7 @@ Skills: Node.js / Express.js / REACT / NEXT / JS / Bootstrap / Material UI / Tai
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuray-alam)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuray-alam&show_icons=true) -->
-
+......................................
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nuray-alam) 
 
 
