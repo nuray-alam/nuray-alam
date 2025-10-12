@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-💻 I’m a **Software Engineer** at [Spectrum Software & Consulting Ltd.](https://sscl.tech) based in **Dhaka, Bangladesh**.  
+💻 I’m a **Software Engineer** at [Spectrum Software & Consulting (Pvt.) Ltd.](https://sscl.tech) based in **Dhaka, Bangladesh**.  
 🌱 I specialize in **Next.js**, **TypeScript**, and **Express.js**, developing scalable full-stack web applications for the **banking and automation sectors**.  
 🤖 Experienced in building **Python Playwright crawlers** for automating banking operations such as **LC automation**, **vessel tracking**, and **daily MIS summary generation**.  
 ⚡ Passionate about **clean code, performance optimization, and automation**.  
