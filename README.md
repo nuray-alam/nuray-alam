@@ -48,10 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuray-alam&layout=compact&theme=radical&hide_border=true" height="165" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://streak-stats.demolab.com?user=nuray-alam&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nuray-alam)
-</p>
+<!-- </p> -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nuray-alam)
 
 ---
 
