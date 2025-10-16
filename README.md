@@ -49,7 +49,8 @@
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nuray-alam&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=nuray-alam&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nuray-alam)
 </p>
 
 ---
